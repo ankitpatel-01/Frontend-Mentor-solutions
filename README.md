@@ -1,2 +1,2 @@
 # Frontend-Mentor-solutions
-Here are some the frontend mentor challenges solutions I created.
+Here are some of the frontend mentor challenges solutions I created.
